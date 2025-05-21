@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryColor">#16A4B6</color> <!-- Soft Purple -->
+    <color name="primaryColorDark">#09403F</color> <!-- Darker Purple -->
+    <color name="secondaryColor">#21578C</color> <!-- Gold -->
+    <color name="secondaryDarkColor">#052A4E</color> <!-- Amber -->
+    <color name="backgroundLight">#F5F5F5</color> <!-- Light Gray Background -->
+    <color name="backgroundDark">#212121</color> <!-- Dark Background -->
+    <color name="textColorPrimary">#212121</color> <!-- Almost Black for Text -->
+    <color name="textColorSecondary">#757575</color> <!-- Gray for Secondary Text -->
+    <color name="errorColor">#D32F2F</color> <!-- Red for Error -->
+</resources>
