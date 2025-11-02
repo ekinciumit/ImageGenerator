@@ -6,7 +6,6 @@ Farklı stil ve ayar seçeneklerini API üzerinden destekler.
 ## 🚀 Özellikler
 
 - Metin açıklamasından görsel üretimi
-- Stil ve çözünürlük gibi ayar seçenekleri
 - RESTful API kullanımı
 
 ## 🛠️ Kurulum
